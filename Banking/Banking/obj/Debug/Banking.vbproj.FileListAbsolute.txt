@@ -1,0 +1,4 @@
+C:\Users\MY PC\Documents\Visual Studio 2008\Projects\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2008\Projects\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\MY PC\Documents\Visual Studio 2008\Projects\Banking\Banking\obj\Debug\Banking.xml
+C:\Users\MY PC\Documents\Visual Studio 2008\Projects\Banking\Banking\obj\Debug\Banking.pdb
